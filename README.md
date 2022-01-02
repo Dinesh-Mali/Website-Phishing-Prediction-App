@@ -8,10 +8,3 @@ on a link or opening as attachment in an email or instant messages.
 
 This is a large dataset with many data information, for which you might have to understand the meaning of the meta data before working on the dataset.
 
-# Project Flow
-
-1) Building a machine learning model to predict if a site is a phishing site ot not.
-
-2) We build a web app on Django to mount the prediction model.
-
-3) We deploy the Django project on Heroku through github
